@@ -1,2 +1,2 @@
 # hello-world
-A test repository to try GitHub
+This is a first testing file.
